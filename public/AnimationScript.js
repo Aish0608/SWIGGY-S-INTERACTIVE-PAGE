@@ -1,9 +1,12 @@
 const txts=document.querySelector(".animate-text").children,
       txtsLen=txts.length;
 
+
       let index=0;
       const textInTimer=3000,
             textOutTimer=2800;
+
+
 
       function animateText()
       {
@@ -29,5 +32,7 @@ const txts=document.querySelector(".animate-text").children,
             animateText();
           },textInTimer)
       }
+
+
 
       window.onload=animateText;
