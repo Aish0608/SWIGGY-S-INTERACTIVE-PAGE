@@ -9,12 +9,17 @@
         "Swiggy Instamart"
     ]
 
+    
+    
     export const contacts=[
         
         "Help & Support",
         "Partner with us",
         "Ride with us"
     ]
+    
+    
+    
     export const legals=[
         
         "Terms & Conditions",
@@ -25,6 +30,9 @@
         "Phishing & Fraud"
     ]
 
+    
+    
+    
     const  cities=[
             [
                 "Abohar",
@@ -563,5 +571,6 @@
                 "Yavatmal"
             ]
     ]
-
+ 
+    
     export default cities
