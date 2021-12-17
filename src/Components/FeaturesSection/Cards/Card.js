@@ -6,7 +6,14 @@ export default function Card(props) {
             <img src={props.src} alt=""/>
             <h2>{props.h2}</h2>
             <p>{props.para1}<br/>{props.para2}</p>
-            
+          
+
+
+
         </div>
+
+
+
+
     )
 }
